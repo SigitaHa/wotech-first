@@ -1,8 +1,8 @@
 read me file uses markdown syntax to edit any text, formulas and codes
 
-# wotech-first
+# wotech-first 😍
 
-## second level heading
+## second level heading 😊👍
 #my skills
 - python
 - java
